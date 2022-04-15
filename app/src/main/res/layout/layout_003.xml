@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="450dp"
     android:orientation="vertical"
     android:background="@color/background_color_001">
 
@@ -12,7 +13,10 @@
         style="@style/CommonStruct_003"
         android:layout_weight="1"
         android:text="@string/title_signin_003"
-        android:textColor="@color/border_color_001"/>
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="center_vertical"
+        android:textColor="@color/blue_1973BA"/>
 
     <TextView
         android:id="@+id/label_input_username_003"
@@ -20,7 +24,8 @@
         android:layout_height="wrap_content"
         style="@style/CommonStruct_003"
         android:layout_weight="1"
-        android:text="@string/label_input_emailaddress_003" />
+        android:text="@string/label_input_emailaddress_003"
+        android:gravity="bottom"/>
 
     <EditText
         android:id="@+id/input_username_003"
@@ -29,8 +34,10 @@
         android:layout_weight="1"
         style="@style/CommonStruct_003"
         android:ems="10"
+        android:padding="2dp"
         android:inputType="textPersonName"
-        android:hint="@string/hint_input_emailaddress_003" />
+        android:hint="@string/hint_input_emailaddress_003"
+        android:background="@drawable/border_round_input"/>
 
     <TextView
         android:id="@+id/label_input_password_003"
@@ -38,7 +45,8 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         style="@style/CommonStruct_003"
-        android:text="@string/label_input_password_003" />
+        android:text="@string/label_input_password_003"
+        android:gravity="bottom"/>
 
     <EditText
         android:id="@+id/input_password_003"
@@ -46,9 +54,11 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:ems="10"
+        android:padding="2dp"
         style="@style/CommonStruct_003"
         android:inputType="textPersonName"
-        android:hint="@string/hint_input_password_003" />
+        android:hint="@string/hint_input_password_003"
+        android:background="@drawable/border_round_input"/>
 
     <CheckBox
         android:id="@+id/check_rememeber_003"
@@ -56,21 +66,33 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         style="@style/CommonStruct_003"
-        android:text="@string/checkbox_remember_003" />
+        android:text="@string/checkbox_remember_003"
+        android:textStyle="bold"
+        android:buttonTint="@color/blue_1973BA"/>
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btn_submit_003"
+        style="@style/CommonStruct_003"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        style="@style/CommonStruct_003"
-        android:text="@string/btn_submit_003" />
+        android:background="@drawable/border_round_button"
+        android:backgroundTint="@color/blue_1973BA"
+        android:text="@string/btn_submit_003"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="22sp" />
 
     <TextView
         android:id="@+id/txt_request_003"
+        style="@style/CommonStruct_003"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
         android:layout_weight="1"
-        style="@style/CommonStruct_003"
-        android:text="@string/txt_requestaccess_003" />
+        android:gravity="bottom"
+        android:text="@string/txt_requestaccess_003"
+        android:textColor="@color/blue_1973BA"
+        android:textSize="16sp"
+        android:textStyle="bold" />
 </LinearLayout>

@@ -17,5 +17,5 @@
     <string name="hint_input_password_003">Your password</string>
     <string name="checkbox_remember_003">Remember me</string>
     <string name="btn_submit_003">Submit</string>
-    <string name="txt_requestaccess_003">Can\'t access your account</string>
+    <string name="txt_requestaccess_003"><u>Can\'t access your account</u></string>
 </resources>

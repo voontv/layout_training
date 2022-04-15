@@ -18,6 +18,9 @@
         <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/border_layout_view_b001.xml" value="0.2985" />
         <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/border_layout_view_b002.xml" value="0.2985" />
         <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/border_out_layout_15.xml" value="0.2985" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/border_round_button.xml" value="0.2985" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/border_round_input.xml" value="0.2985" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/border_show_003.xml" value="0.2985" />
         <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/button_1.xml" value="0.2985" />
         <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/button_1_action.xml" value="0.196" />
         <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/button_facebook.xml" value="0.196" />
@@ -33,7 +36,7 @@
         <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/layout/fragment_notifications.xml" value="0.358695652173913" />
         <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/layout/layout_001.xml" value="0.33" />
         <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/layout/layout_002.xml" value="0.358695652173913" />
-        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/layout/layout_003.xml" value="0.358695652173913" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/layout/layout_003.xml" value="0.33" />
         <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
       </map>
     </option>

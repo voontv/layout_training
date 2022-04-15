@@ -13,11 +13,11 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.layout_001)
-        val hintUsername: EditText = findViewById(R.id.input_user)
-        val hintPassword: EditText = findViewById(R.id.input_password)
-        hintUsername.setHint("")
-        hintPassword.setHint("")
+        setContentView(R.layout.layout_003)
+//        val hintUsername: EditText = findViewById(R.id.input_user)
+//        val hintPassword: EditText = findViewById(R.id.input_password)
+//        hintUsername.setHint("")
+//        hintPassword.setHint("")
 
 //        val navView: BottomNavigationView = findViewById(R.id.nav_view)
 //
