@@ -12,7 +12,7 @@
         style="@style/CommonStruct_003"
         android:layout_weight="1"
         android:text="@string/title_signin_003"
-        android:textColor=""/>
+        android:textColor="@color/border_color_001"/>
 
     <TextView
         android:id="@+id/label_input_username_003"
