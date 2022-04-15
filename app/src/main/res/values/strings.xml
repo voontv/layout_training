@@ -9,4 +9,5 @@
     <string name="hint_username">Your username</string>
     <string name="hint_password">Your password</string>
     <string name="btn_login">Login</string>
+    <string name="description_b002">Kotlin</string>
 </resources>

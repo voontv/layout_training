@@ -11,4 +11,5 @@
     <color name="background_color_001">#B2E8E6E6</color>
     <color name="background_input_001">#D2CCE5FA</color>
     <color name="background_button_001">#B1DD7E</color>
+    <color name="green">#3C803F</color>
 </resources>
