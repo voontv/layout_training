@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/background_14.xml" value="0.196" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/background_layout_12_blue.xml" value="0.196" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/background_layout_12_white.xml" value="0.196" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/border_4.xml" value="0.196" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/border_button_3.xml" value="0.2985" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/border_button_b001.xml" value="0.2985" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/border_input_b001.xml" value="0.2985" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/border_layout_15.xml" value="0.2985" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/border_layout_17.xml" value="0.2985" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/border_layout_17_search.xml" value="0.196" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/border_layout_3_1.xml" value="0.2985" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/border_layout_3_out_side.xml" value="0.2985" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/border_layout_view_b001.xml" value="0.2985" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/border_out_layout_15.xml" value="0.2985" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/button_1.xml" value="0.2985" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/button_1_action.xml" value="0.196" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/button_facebook.xml" value="0.196" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/button_login.xml" value="0.2985" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/button_twitter.xml" value="0.196" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/circle_10.xml" value="0.196" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/exercise_1_drawable.xml" value="0.196" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/exercise_1_textbox.xml" value="0.196" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/drawable/seach_14.xml" value="0.196" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/layout/fragment_dashboard.xml" value="0.358695652173913" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/layout/fragment_home.xml" value="0.358695652173913" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/layout/fragment_notifications.xml" value="0.358695652173913" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/layout/layout_001.xml" value="0.33" />
+        <entry key="..\:/practice/AndroidStu/AndroidUI/layout_training/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
