@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background_color_001">
+
+    <TextView
+        android:id="@+id/txt_Title_003"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/CommonStruct_003"
+        android:layout_weight="1"
+        android:text="@string/title_signin_003"
+        android:textColor=""/>
+
+    <TextView
+        android:id="@+id/label_input_username_003"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/CommonStruct_003"
+        android:layout_weight="1"
+        android:text="@string/label_input_emailaddress_003" />
+
+    <EditText
+        android:id="@+id/input_username_003"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        style="@style/CommonStruct_003"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/hint_input_emailaddress_003" />
+
+    <TextView
+        android:id="@+id/label_input_password_003"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        style="@style/CommonStruct_003"
+        android:text="@string/label_input_password_003" />
+
+    <EditText
+        android:id="@+id/input_password_003"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        style="@style/CommonStruct_003"
+        android:inputType="textPersonName"
+        android:hint="@string/hint_input_password_003" />
+
+    <CheckBox
+        android:id="@+id/check_rememeber_003"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        style="@style/CommonStruct_003"
+        android:text="@string/checkbox_remember_003" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_submit_003"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        style="@style/CommonStruct_003"
+        android:text="@string/btn_submit_003" />
+
+    <TextView
+        android:id="@+id/txt_request_003"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        style="@style/CommonStruct_003"
+        android:text="@string/txt_requestaccess_003" />
+</LinearLayout>

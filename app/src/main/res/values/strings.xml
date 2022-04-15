@@ -10,4 +10,12 @@
     <string name="hint_password">Your password</string>
     <string name="btn_login">Login</string>
     <string name="description_b002">Kotlin</string>
+    <string name="title_signin_003">Sign In</string>
+    <string name="label_input_emailaddress_003">Email Address</string>
+    <string name="hint_input_emailaddress_003">Your email</string>
+    <string name="label_input_password_003">Password</string>
+    <string name="hint_input_password_003">Your password</string>
+    <string name="checkbox_remember_003">Remember me</string>
+    <string name="btn_submit_003">Submit</string>
+    <string name="txt_requestaccess_003">Can\'t access your account</string>
 </resources>
